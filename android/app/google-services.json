@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "448474334405",
+    "project_id": "pinguard-96256",
+    "storage_bucket": "pinguard-96256.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:448474334405:android:590180c3cabbf19a701cac",
+        "android_client_info": {
+          "package_name": "com.pinguard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "448474334405-fosbu0euds12ndp6pmrj067v86lcsgso.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pinguard",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "448474334405-mebqnim3hrhpdgevg2ohm20j0cd0k12d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pinguard",
+            "certificate_hash": "311804748173955c6623a26c0605507d1ecfe596"
+          }
+        },
+        {
+          "client_id": "448474334405-m34r7d7q68s5ig0k3nd7r7kd6ps4ach9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQTpnJ4GNZhJEbtIWm5ttqrqe3ki7QVVk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "448474334405-m34r7d7q68s5ig0k3nd7r7kd6ps4ach9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "448474334405-08e3l597bgju08i84rinuqi00a6hhsjq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.pinguard"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
